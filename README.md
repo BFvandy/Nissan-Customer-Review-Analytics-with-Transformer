@@ -26,7 +26,18 @@ Attributes Scope: We focused on imagery attributes GFK identified.
 Model Scope: Small SUV segments (10 models).
 Time Frame: Although we cannot limit Reddit and Car Review Websites strictly within 3 years, most of the comments are aligned in terms of time frame.
 
+###### Attributes Scope
+**Functional Attributes (17)**: Dependable, Lasts long, Value for money, Quality fit and finish, Attractive styling, Safe, Retains resale value, Driver comfort, Fun to drive, Advanced features, Responsive handling, Prestigious, Dealerships, Fuel efficient, Quick acceleration, Environmentally friendly, Affordable
+**Personality Attributes (12)**: Trusted, Leader, Responsible, Confident, Innovative, Exciting, Practical, Adventurous, Passionate, Distinctive, Youthful, Aggressive 
 
+###### Model Scope
+**Model**: Rogue, Equinox, Escape, Bronco Sport, CR-V, Tucson, Sportage, CX-5, Forester, RAV4
+
+###### Time Frame
+2020, 2021, 2022 (August)
+
+## Model Framework
+![image](https://user-images.githubusercontent.com/92134579/186258630-78a04b15-0bd7-47d6-aafe-31c1b0093bd7.png)
 
 
 
