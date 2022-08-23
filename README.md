@@ -36,6 +36,9 @@ Time Frame: Although we cannot limit Reddit and Car Review Websites strictly wit
 ###### Time Frame
 2020, 2021, 2022 (August)
 
+## Methodology
+![image](https://user-images.githubusercontent.com/92134579/186258815-1bda7ccd-c7b7-4196-9380-4472b712f944.png)
+
 ## Model Framework
 ![image](https://user-images.githubusercontent.com/92134579/186258630-78a04b15-0bd7-47d6-aafe-31c1b0093bd7.png)
 
