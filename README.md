@@ -44,6 +44,8 @@ Time Frame: Although we cannot limit Reddit and Car Review Websites strictly wit
 
 ## Tableau Dashboard Demonstration
 ![image](https://user-images.githubusercontent.com/92134579/186258945-e44fa5d3-d769-428f-9def-09484cb1e7a7.png)
+
+Click the links to see the Tableau Dashboards:
 Strategic Vision: https://public.tableau.com/app/profile/fan.bu/viz/StrategicWindowReviewAnalysis-FanBu/StrategicWindowDashboard
 
 Reddit (contains SV): https://public.tableau.com/app/profile/fan.bu/viz/RedditReviewAnalysis-FanBu/AttributesDashboard
